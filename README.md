@@ -42,8 +42,6 @@
 
 ## 📸 Demo
 
-🎬 [Click here to watch the demo video](https://github.com/Heshane-11/Reliance-sales-Analysis/blob/main/Output/20250313182532.mp4)
-
 [![Demo Video](https://img.icons8.com/ios/452/play-button-circled--v1.png)](https://github.com/Heshane-11/Reliance-sales-Analysis/blob/main/Output/20250313182532.mp4)
 
 
